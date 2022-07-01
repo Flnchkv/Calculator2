@@ -1,0 +1,16 @@
+C:\Users\ekate\source\repos\calculator\bin\Debug\calculator.exe.config
+C:\Users\ekate\source\repos\calculator\bin\Debug\calculator.exe
+C:\Users\ekate\source\repos\calculator\bin\Debug\calculator.pdb
+C:\Users\ekate\source\repos\calculator\obj\Debug\calculator.csproj.AssemblyReference.cache
+C:\Users\ekate\source\repos\calculator\obj\Debug\calculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\ekate\source\repos\calculator\obj\Debug\MainWindow.g.cs
+C:\Users\ekate\source\repos\calculator\obj\Debug\App.g.cs
+C:\Users\ekate\source\repos\calculator\obj\Debug\calculator_MarkupCompile.cache
+C:\Users\ekate\source\repos\calculator\obj\Debug\calculator_MarkupCompile.lref
+C:\Users\ekate\source\repos\calculator\obj\Debug\MainWindow.baml
+C:\Users\ekate\source\repos\calculator\obj\Debug\calculator.g.resources
+C:\Users\ekate\source\repos\calculator\obj\Debug\calculator.Properties.Resources.resources
+C:\Users\ekate\source\repos\calculator\obj\Debug\calculator.csproj.GenerateResource.cache
+C:\Users\ekate\source\repos\calculator\obj\Debug\calculator.csproj.CoreCompileInputs.cache
+C:\Users\ekate\source\repos\calculator\obj\Debug\calculator.exe
+C:\Users\ekate\source\repos\calculator\obj\Debug\calculator.pdb
